@@ -1,0 +1,8 @@
+{
+    "manifest_version": 2,
+    "id": "SOUL", 
+    "name": "Soul Ton Connect", 
+    "description": "Connect your Ton Wallet and earn SOUL!!!", 
+    "url": "https://ton-react.netlify.app"
+  }
+  
